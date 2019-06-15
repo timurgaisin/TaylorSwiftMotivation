@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Swift-мотиватор</string>
+    <string name="edit_message">Edit a message</string>
+    <string name="button_send">ЖМИ СЮДА!</string>
+    <!-- Base application theme. -->
+    <string name="action_settings">О программе</string>
+    <string name="about_title">О программе</string>
+    <string name="about">
+        \tПрограмма предназначена для \n
+        \tповышения настроения :)\n
+        \tВ качестве "поднимателя настроения"\n
+        \tвыступает прекрасная Тейлор Свифт!\n\n
+    </string>
+</resources>
